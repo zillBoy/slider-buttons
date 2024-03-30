@@ -1,10 +1,10 @@
-// React Dependencies
-import React from 'react'
+// Internal Dependencies
+import FlashSliderButton from './components/SliderButtons/FlashSliderButton'
 
 const App = () => {
   return (
     <div>
-      <p>App</p>
+      <FlashSliderButton />
     </div>
   )
 }
